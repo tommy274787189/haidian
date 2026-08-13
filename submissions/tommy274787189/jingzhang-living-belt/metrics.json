@@ -51,7 +51,7 @@
     },
     "building_footprint_area_sqm": {
       "status": "known",
-      "value": 853798,
+      "value": 1362179.7,
       "unit": "sqm",
       "source_files": [
         "geometry/buildings.geojson"

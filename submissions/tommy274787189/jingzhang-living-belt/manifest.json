@@ -24,7 +24,7 @@
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
-      "sha256": "8f18dbab1d67f8803d08d3eb6fd6fc25c098c20198d361d42ea645de75086214",
+      "sha256": "94e02975b701e0763620cdaf452fe41dfd9280b20866742b1bfdb7415433c29e",
       "language": "zh"
     },
     {
@@ -33,7 +33,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "e51b26ddd9ffb4a0d501b624637064eb29c29412dff567cf0e9292e193f6fbac"
+      "sha256": "1252668b1db363fc5bc550d4e9f69e19e68a61cfaa8b2fd92cb81e6fd080f2b4"
     },
     {
       "path": "agent.json",
@@ -45,7 +45,7 @@
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
-      "sha256": "7d5f5779abc0921939c2d5d2e97d56d85540d383a60de6b2f9277944cf9145c2"
+      "sha256": "6b095e1188e9b32867c552a5af0ee90e94482a31d01033daa5039019beff0b8d"
     },
     {
       "path": "assumptions.json",
@@ -105,7 +105,7 @@
       "path": "geometry/buildings.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "217ce578f2c6bb4ffca1b8e9d70a1b74728f8625e3b5451e98c6c47646caa608"
+      "sha256": "aef470d72658ebb92c32b55010db7bbd42df32d2855793ca338a2355b03c7a0b"
     },
     {
       "path": "geometry/roads.geojson",
@@ -141,7 +141,7 @@
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
-      "sha256": "3bd01ace11126e7e79d50ee138bcbc7d1545ac40d196a0e267058f7508004fe5",
+      "sha256": "171659c5a5bfab864abd8201a1fe138135f3d8eb78a48427dc99f8905cc0cda1",
       "language": "zh"
     },
     {
@@ -150,7 +150,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "227f6e05b12be1e0e767364b6d08021724641629850498a826a4179c8f809ff9"
+      "sha256": "455e9bb38445eb6e7ff18293a941156cab3d723ba7cd4f130302b6920d06588f"
     },
     {
       "path": "report/copyright_statement.md",
@@ -236,7 +236,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "52ee15a84d05234692943e03dd6dd63ddec598085543307bca1e0b769a4e5f2e"
+      "sha256": "377cfaa2bd3467df8877233973f91d7a0082ce9d805b6249ea54e0ea59dab4fb"
     },
     {
       "path": "assets/figures/annual-events.png",
@@ -306,7 +306,7 @@
       "required": false,
       "role": "proposal_figure",
       "language": "neutral",
-      "sha256": "364bf55510a71effca298bd589d4dddf4187db32644d2c2f391a3d984a721433"
+      "sha256": "f0b1595a8736f074e015722355babe2e0e1bd76930e94bdf9dac8176b7e0f642"
     },
     {
       "path": "assets/figures/mobility-bluegreen.en.png",
